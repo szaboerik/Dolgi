@@ -18,6 +18,7 @@ public class Dgyaki {
         Dgyaki gbh = new Dgyaki();
         gbh.metodus();
         //ez
+        //az
     }
     void metodus(){
         System.out.println("egy metódus");
